@@ -1,6 +1,5 @@
 #!/bin/bash bin
 cd
-wget https://github.com/BragiOk/.tmux/blob/main/.tmux.conf
-wget https://github.com/BragiOk/.tmux/blob/main/.tmux.conf
+git clone https://github.com/BragiOk/.tmux.git
 ln -s -f .tmux/.tmux.conf
 cp .tmux/.tmux.conf.local .
