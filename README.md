@@ -1,3 +1,23 @@
+nVim
+=======
+
+
+Installation
+------------
+
+```
+apt install neovim
+npm install -g pyright]
+mkdir -p ~/.config/nvim/
+
+mv ~/.config/nvim/init.vim
+
+
+```
+
+
+
+
 .tmux
 =====
 
