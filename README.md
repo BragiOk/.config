@@ -1,5 +1,9 @@
 .tmux
 =====
+[Full info .Tmux](https://github.com/BragiOk/.config/blob/main/tmux.md)
+
+
+
 
 Self-contained, pretty and versatile `.tmux.conf` configuration file.
 
@@ -11,6 +15,9 @@ Installation
 sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/BragiOk/.config/main/install_tmux.sh)"
 
 ```
+
+
+
 
 
 nVim (Корявый)
