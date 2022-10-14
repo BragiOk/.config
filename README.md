@@ -7,6 +7,10 @@ Self-contained, pretty and versatile `.tmux.conf` configuration file.
 
 Installation
 ------------
+```
+wget https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BragiOk/.tmux/blob/main/install.sh
+
+```
 
 Requirements:
 
