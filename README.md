@@ -8,7 +8,7 @@ Self-contained, pretty and versatile `.tmux.conf` configuration file.
 Installation
 ------------
 ```
-git clone https://github.com/BragiOk/.tmux.git && chmod +x install.sh &&  ./install.sh
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/BragiOk/.tmux/main/install.sh)"
 
 ```
 
