@@ -16,6 +16,17 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/BragiOk/.config/main/inst
 
 ```
 
+Tmux Плагины  в конфиге
+------------
+
+Установить  плагины
+Нажмите prefix + I, чтобы получить плагин и получить его. Теперь вы должны быть в состоянии использовать плагин.
+
+
+```
+tmux-resurrect
+tmux-continuum
+```
 
 
 
