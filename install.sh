@@ -1,3 +1,4 @@
+#!/bin/bash bin
 cd
 wget https://github.com/BragiOk/.tmux/blob/main/.tmux.conf
 wget https://github.com/BragiOk/.tmux/blob/main/.tmux.conf
