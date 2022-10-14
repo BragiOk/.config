@@ -35,8 +35,8 @@ Self-contained, pretty and versatile `.tmux.conf` configuration file.
 
 Installation
 ------------
-```
-sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/BragiOk/.config/main/install.sh)"
+```sh
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/BragiOk/.config/main/install_tmux.sh)"
 
 ```
 
