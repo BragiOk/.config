@@ -1,6 +1,7 @@
 #!/bin/bash bin
 cd
-git clone https://github.com/BragiOk/.tmux.git 
+wget https://raw.githubusercontent.com/BragiOk/.tmux/main/.tmux.conf
+wget https://raw.githubusercontent.com/BragiOk/.tmux/main/.tmux.conf.local
 ln -s -f .tmux/.tmux.conf
 cp .tmux/.tmux.conf.local .
 alias tmux='tmux -u'
