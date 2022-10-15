@@ -24,10 +24,10 @@ Tmux Плагины  в конфиге
 
 
 Список установленых в конфиг
-```
+
 [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
 [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
-```
+
 
 
 
