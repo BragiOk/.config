@@ -18,6 +18,10 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/BragiOk/.config/main/inst
 
 Tmux Плагины  в конфиге
 ------------
+Для плагинов нужно установить git
+```
+apt install git
+```
 
 Установить  плагины
 Нажмите prefix + I, чтобы получить плагин и получить его. Теперь вы должны быть в состоянии использовать плагин.
