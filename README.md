@@ -24,8 +24,7 @@ Tmux Плагины  в конфиге
 
 
 Установленные в конфиг:
-[tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
-
+[tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect),
 [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
 
 
