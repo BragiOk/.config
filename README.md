@@ -28,7 +28,8 @@ Tmux Плагины  в конфиге
 [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
 
 
-
+```
+```
 
 
 nVim (Корявый)
