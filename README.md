@@ -23,9 +23,9 @@ Tmux Плагины  в конфиге
 Нажмите prefix + I, чтобы получить плагин и получить его. Теперь вы должны быть в состоянии использовать плагин.
 
 
-Список установленых в конфиг
-
+Установленные в конфиг:
 [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+
 [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
 
 
